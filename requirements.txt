@@ -1,0 +1,20 @@
+# Python >= 3.10 recommended (3.11 works great)
+
+# Core numerics & stats
+numpy>=1.26,<2
+pandas>=2.2,<3
+scipy>=1.11,<2
+statsmodels>=0.14,<0.15
+
+# Plotting & notebooks
+matplotlib>=3.8,<4
+jupyterlab>=4,<5
+ipykernel>=6,<7
+notebook>=7,<8
+
+# Utilities (optional but handy)
+tqdm>=4.66,<5
+pytest>=7,<9
+
+# Data helpers (optional; comment out if you don't need them)
+# yfinance>=0.2,<0.3
