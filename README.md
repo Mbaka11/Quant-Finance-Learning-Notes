@@ -1,5 +1,7 @@
 # Quant Finance Notes
 
+STILL IN PROGRESS ...
+
 A lightweight notebook/code collection documenting my learning in quantitative finance.  
 Single **virtual environment** at the repo root; each topic lives in its own subfolder (e.g., _Geometric Brownian Motion_, _Monte Carlo_).
 
